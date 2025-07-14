@@ -6,8 +6,7 @@
 
 ## Overview
 
-ActiveRecon is a comprehensive network reconnaissance framework designed for penetration testers and security professionals. Built following OWASP, NIST, and PTES methodologies, it automates the complete active reconnaissance process through systematic phases.
-
+ActiveRecon is a comprehensive network reconnaissance framework designed for penetration testers and security professionals. Built entirely with Bash scripting, it adheres to established methodologies from OWASP, NIST, and PTES, automating the entire active reconnaissance process through well-structured and systematic phases.
 ## Features
 
 - **8-Phase Methodology**: Target validation → Network discovery → Port scanning → Service enumeration → Protocol analysis → Infrastructure mapping → Vulnerability assessment → Evidence processing
@@ -93,13 +92,6 @@ activerecon_TIMESTAMP/
 
 🚧 **Active Development**: This tool is currently under development. Contributions, bug reports, and feature requests are welcome.
 
-### Roadmap
-- [ ] Enhanced web application scanning
-- [ ] Database security modules
-- [ ] Cloud infrastructure support
-- [ ] API integration capabilities
-- [ ] Custom plugin system
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
@@ -111,10 +103,6 @@ Suggestions and feedback are welcomed at: **wissmahasneh@gmail.com**
 ## Legal Disclaimer
 
 This tool is intended for authorized security testing only. Users are responsible for complying with applicable laws and regulations. The author assumes no liability for misuse of this tool.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
