@@ -98,7 +98,7 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 
 ## Feedback
 
-Suggestions and feedback are welcomed at: **wissmahasneh@gmail.com**
+Suggestions and feedback are welcomed at: **reaper.gitbook@gmail.com**
 
 ## Legal Disclaimer
 
